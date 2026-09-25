@@ -1,7 +1,7 @@
 # UST2026
 
-# Universal Stasis Theory (UST)
-## Two-Scale Hosting Time and Environmental Ascent Clock Theory
+## Universal Stasis Theory (UST)
+### Two-Scale Hosting Time and Environmental Ascent Clock Theory
 
 **Author:** Sami Samir Ibrahim El-Sayed  
 **Researcher / Independent Researcher**  
@@ -15,7 +15,7 @@ UST2026 is a research project developing the **Universal Stasis Theory (UST)** a
 
 The project develops a unified mathematical and computational framework intended to investigate physical dynamics through environmental equilibrium, medium-dependent response, hosting-time scaling, and operational environmental clocks.
 
-The project is organized as a continuous research program rather than independent papers.
+The project is organized as a continuous research program rather than as independent papers.
 
 The current integrated closure extends through:
 
@@ -29,17 +29,17 @@ Universal Stasis Theory investigates the possibility that observed physical dyna
 
 The central dynamical form used in the framework is:
 
-\[
+$$
 \mathbf{a}
 =
 -\frac{K}{S}\nabla M(\mathbf{x})
-\]
+$$
 
 where:
 
-- \(K\) is the Cosmic Equilibrium Constant,
-- \(S\) represents Structural Resistance,
-- \(M(\mathbf{x})\) represents the relevant environmental medium field.
+- $K$ is the Cosmic Equilibrium Constant.
+- $S$ represents Structural Resistance.
+- $M(\mathbf{x})$ represents the relevant environmental medium field.
 
 The framework investigates how environmental gradients may generate measurable acceleration and organized motion.
 
@@ -51,45 +51,48 @@ The theory is developed without assuming gravitational acceleration as the funda
 
 A generalized force representation used in the framework is:
 
-\[
+$$
 m\mathbf{a}
 =
-k_1\int_S P_{\rm env}(\mathbf{x})\mathbf{n}\,dA
+k_1
+\int_S
+P_{\rm env}(\mathbf{x})\mathbf{n}\,dA
 -
-k_2\int_S
+k_2
+\int_S
 \boldsymbol{\sigma}_{\rm int}\cdot\mathbf{n}\,dA
-\]
+$$
 
 with corresponding environmental-field representations including:
 
-\[
-\nabla^2P_{\rm env}
+$$
+\nabla^2 P_{\rm env}
 =
 -\beta\rho+S_P
-\]
+$$
 
 and
 
-\[
+$$
 \partial_t I
 +
 \mathbf{u}_{\rm env}\cdot\nabla I
 =
 -\lambda I
 +
-\kappa\nabla\Phi.
-\]
+\kappa\nabla\Phi
+$$
 
 The unified form is represented by:
 
-\[
+$$
 \rho(\mathbf{x})\mathbf{a}(\mathbf{x})
 =
 -k_1\nabla P_{\rm env}
 -k_2\nabla\cdot\boldsymbol{\sigma}_{\rm int}
 +
-\rho(\mathbf{x})\mathbf{b}_{\rm body}.
-\]
+\rho(\mathbf{x})\mathbf{b}_{\rm body}
+$$
 
 The constants and environmental parameters are treated as quantities requiring calibration and empirical testing.
 
@@ -101,57 +104,59 @@ The project introduces an operational concept of **Hosting Time**.
 
 The retained Planck-time scale is:
 
-\[
-t_p=5.391247\times10^{-44}\ {\rm s}.
-\]
+$$
+t_p
+=
+5.391247\times10^{-44}\ {\rm s}
+$$
 
 The host-time transformation is represented by:
 
-\[
+$$
 T_H(t)
 =
 t_p
 \exp\left(
 \frac{R_r t}{t_p}
-\right).
-\]
+\right)
+$$
 
 Using the retained calibration:
 
-\[
+$$
 1\ {\rm local\ day}
 \longleftrightarrow
-1000\ {\rm hosting\ years},
-\]
+1000\ {\rm hosting\ years}
+$$
 
 with
 
-\[
-t_d=86400\ {\rm s},
-\]
+$$
+t_d=86400\ {\rm s}
+$$
 
 the response-rate parameter is:
 
-\[
+$$
 R_r
 =
 \frac{t_p}{t_d}
 \ln(365250)
 \approx
-7.99223\times10^{-48}\ {\rm s}.
-\]
+7.99223\times10^{-48}\ {\rm s}
+$$
 
 The corresponding characteristic interval is approximately:
 
-\[
+$$
 \tau_H
 =
 \frac{t_p}{R_r}
 \approx
 6745.61\ {\rm s}
 \approx
-1.8738\ {\rm h}.
-\]
+1.8738\ {\rm h}
+$$
 
 These quantities are retained as part of the integrated Parts I–VI framework.
 
@@ -167,32 +172,35 @@ The operational definition of a clock is:
 
 Therefore:
 
-\[
-\text{Time} \neq \text{Clock}.
-\]
+$$
+\text{Time}\neq\text{Clock}
+$$
 
 A clock is an operational physical realization of temporal progression.
 
-For a cyclic observable with phase \(\theta\), the cumulative progress is represented by:
+For a cyclic observable with phase $\theta$, the cumulative progress is represented by:
 
-\[
+$$
 U_\phi
 =
-N_\phi+
-\frac{\theta_\phi}{2\pi}.
-\]
+N_\phi
++
+\frac{\theta_\phi}{2\pi}
+$$
 
 After phase unwrapping:
 
-\[
+$$
 U_\phi(t)
 =
 \frac{
 \widetilde{\theta}(t)
 -
 \widetilde{\theta}(t_0)
-}{2\pi}.
-\]
+}{
+2\pi
+}
+$$
 
 ---
 
@@ -200,33 +208,33 @@ U_\phi(t)
 
 The retained environmental-calendar convention is:
 
-\[
+$$
 1\ {\rm Ascent\ Year}
 =
 12\ {\rm months}
 \times
 30\ {\rm days/month}
 \times
-100\ {\rm hours/day}.
-\]
+100\ {\rm hours/day}
+$$
 
 Therefore:
 
-\[
+$$
 1\ {\rm Ascent\ Year}
 =
 360\ {\rm days}
 =
-36\,000\ {\rm hours}.
-\]
+36\,000\ {\rm hours}
+$$
 
 The framework retains the previously established host-time calibration:
 
-\[
+$$
 1\ {\rm local\ day}
 \longleftrightarrow
-1000\ {\rm hosting\ years}.
-\]
+1000\ {\rm hosting\ years}
+$$
 
 ---
 
@@ -241,7 +249,7 @@ The astronomical realization developed in Part V uses:
 
 The proposed operational identity is:
 
-\[
+$$
 \mathrm{GalClock}
 =
 (
@@ -253,52 +261,54 @@ t_0,
 F,
 D,
 A
-).
-\]
+)
+$$
 
 The wrapped Galactocentric phase is:
 
-\[
+$$
 \Theta_G
 =
-\operatorname{atan2}(y,x).
-\]
+\operatorname{atan2}(y,x)
+$$
 
 The continuous clock coordinate is:
 
-\[
+$$
 U_G(t)
 =
 \frac{
 \widetilde{\Theta}_G(t)
 -
 \widetilde{\Theta}_G(t_0)
-}{2\pi}.
-\]
+}{
+2\pi
+}
+$$
 
 The instantaneous angular rate is:
 
-\[
+$$
 \Omega_G
 =
-\frac{xv_y-yv_x}{x^2+y^2}.
-\]
+\frac{xv_y-yv_x}{x^2+y^2}
+$$
 
 Therefore:
 
-\[
+$$
 \frac{dU_G}{dt}
 =
-\frac{\Omega_G}{2\pi}.
-\]
+\frac{\Omega_G}{2\pi}
+$$
 
 For an approximately constant angular rate:
 
-\[
+$$
 P_G
 =
-\frac{2\pi}{|\Omega_G|}.
-\]
+\frac{2\pi}{|\Omega_G|}
+$$
 
 This construction does not claim that a complete Galactic revolution has already been directly observed within the modern observational interval.
 
@@ -306,58 +316,63 @@ This construction does not claim that a complete Galactic revolution has already
 
 # 7. Sampling-Safe Phase Unwrapping
 
-Because the observed phase is wrapped into the interval \((-\pi,\pi]\), phase unwrapping requires an explicit sampling condition.
+Because the observed phase is wrapped into the interval $(-\pi,\pi]$, phase unwrapping requires an explicit sampling condition.
 
 The wrapped phase difference is:
 
-\[
+$$
 \delta_i^{\rm wrap}
 =
 \operatorname{atan2}
 \left(
 \sin\delta_i,
 \cos\delta_i
-\right).
-\]
+\right)
+$$
 
-For a conservative maximum angular rate \(\Omega_{\max}\), an interval is accepted only when:
+For a conservative maximum angular rate $\Omega_{\max}$, an interval is accepted only when:
 
-\[
-\Omega_{\max}\Delta t_i+\mu<\pi.
-\]
+$$
+\Omega_{\max}\Delta t_i+\mu<\pi
+$$
 
 With uncertainty:
 
-\[
+$$
 \Omega_{\max}\Delta t_i
 +
 k\Sigma_{\Delta\theta_i}
 +
 \mu
 <
-\pi.
-\]
+\pi
+$$
 
 The branch-clearance condition is:
 
-\[
+$$
 C_i
 =
-\pi-
-|\delta_i^{\rm wrap}|.
-\]
+\pi
+-
+\left|
+\delta_i^{\rm wrap}
+\right|
+$$
 
 and the interval must satisfy:
 
-\[
+$$
 C_i
 >
-\mu+k\Sigma_{\Delta\theta_i}.
-\]
+\mu
++
+k\Sigma_{\Delta\theta_i}
+$$
 
 The adaptive acceptance rule is:
 
-\[
+$$
 A_i
 =
 \Omega_{\max}\Delta t_i
@@ -367,27 +382,25 @@ k\Sigma_{\Delta\theta_i}
 \mu
 <
 \pi
-\]
+$$
 
 and
 
-\[
-C_i
->
-B_i,
+$$
+C_i>B_i,
 \qquad
-B_i=\mu+k\Sigma_{\Delta\theta_i}.
-\]
+B_i=\mu+k\Sigma_{\Delta\theta_i}
+$$
 
 Only accepted intervals are used for continuous phase reconstruction:
 
-\[
+$$
 \widetilde{\Theta}_{G,i+1}
 =
 \widetilde{\Theta}_{G,i}
 +
-\delta_i^{\rm wrap}.
-\]
+\delta_i^{\rm wrap}
+$$
 
 ---
 
@@ -397,7 +410,7 @@ UST2026 includes explicit computational procedures for numerical validation.
 
 The retained candidate numerical evolution law is:
 
-\[
+$$
 s_{t+1}
 =
 s_t
@@ -406,23 +419,23 @@ s_t
 +
 \beta
 \left(
-s_t-s_t^{\circ3}
-\right).
-\]
+s_t-s_t^{\circ 3}
+\right)
+$$
 
 The retained reference configuration includes:
 
-\[
-N=400,
-\]
+$$
+N=400
+$$
 
-\[
-\alpha=0.05,
-\]
+$$
+\alpha=0.05
+$$
 
-\[
-\beta=0.50.
-\]
+$$
+\beta=0.50
+$$
 
 The numerical experiments include multiple system sizes and independent random seeds.
 
@@ -459,42 +472,42 @@ Historical diagonal tests are retained only as historical controls and are not p
 
 The integrated framework defines:
 
-\[
+$$
 D_H(z)
 =
 \frac{c}{H(z)}
-\]
+$$
 
 and
 
-\[
+$$
 D_M(z)
 =
 c
 \int_0^z
-\frac{dz'}{H(z')}.
-\]
+\frac{dz'}{H(z')}
+$$
 
 The dimensionless BAO observable vector is:
 
-\[
+$$
 \mathbf{D}
 =
 \left(
 \frac{D_M}{r_d},
 \frac{D_H}{r_d}
-\right).
-\]
+\right)
+$$
 
 The appropriate covariance-aware statistic is:
 
-\[
+$$
 \chi^2
 =
 (\mathbf{D}_{\rm data}-\mathbf{D}_{\rm model})^T
 C^{-1}
-(\mathbf{D}_{\rm data}-\mathbf{D}_{\rm model}).
-\]
+(\mathbf{D}_{\rm data}-\mathbf{D}_{\rm model})
+$$
 
 The off-diagonal covariance terms must be retained.
 
@@ -506,40 +519,40 @@ The project therefore does not treat an incomplete or diagonalized covariance ma
 
 The integrated Parts I–VI framework retains the candidate environmental period:
 
-\[
+$$
 P_{\rm cand}
 =
 1017.75608937
-\ {\rm local\ years}.
-\]
+\ {\rm local\ years}
+$$
 
 The corresponding clock factor is:
 
-\[
+$$
 C_{\rm clock}
 =
 \frac{P_{\rm cand}}{1000}
 =
-1.01775608937.
-\]
+1.01775608937
+$$
 
 The fractional offset is:
 
-\[
+$$
 \delta_{\rm clock}
 =
 C_{\rm clock}-1
 =
-0.01775608937.
-\]
+0.01775608937
+$$
 
 Therefore:
 
-\[
+$$
 \delta_{\rm clock}
 =
-1.775608937\%.
-\]
+1.775608937\%
+$$
 
 These values are treated as retained quantities of the integrated model and are not re-fitted in the corresponding fixed-clock prediction.
 
@@ -549,48 +562,47 @@ These values are treated as retained quantities of the integrated model and are 
 
 Using the retained reference value:
 
-\[
+$$
 H_{\rm early}
 =
-67.4
-\ {\rm km\,s^{-1}\,Mpc^{-1}},
-\]
+67.4\ {\rm km\,s^{-1}\,Mpc^{-1}}
+$$
 
 the fixed-clock transformation is:
 
-\[
+$$
 H_{\rm clock}
 =
-C_{\rm clock}H_{\rm early}.
-\]
+C_{\rm clock}H_{\rm early}
+$$
 
 Therefore:
 
-\[
+$$
 H_{\rm clock}
 =
 1.01775608937
 \times
 67.4
-\]
+$$
 
-\[
+$$
 H_{\rm clock}
 =
 68.5967604235
-\ {\rm km\,s^{-1}\,Mpc^{-1}}.
-\]
+\ {\rm km\,s^{-1}\,Mpc^{-1}}
+$$
 
 The rounded reporting value is:
 
-\[
+$$
 \boxed{
 H_{\rm clock}
 \approx
 68.5968
 \ {\rm km\,s^{-1}\,Mpc^{-1}}
 }
-\]
+$$
 
 This is retained as a **model prediction**, not as a fitted observational parameter.
 
@@ -598,19 +610,17 @@ This is retained as a **model prediction**, not as a fitted observational parame
 
 # 13. Redshift-Dependent Test
 
-The decisive test in the integrated framework is not restricted to a single \(H_0\) value.
-
 The fixed-clock hypothesis can be written:
 
-\[
+$$
 H_{\rm model}(z)
 =
 C_{\rm clock}H_{\rm base}(z)
-\]
+$$
 
 with
 
-\[
+$$
 H_{\rm base}(z)
 =
 H_{\rm early}
@@ -618,18 +628,18 @@ H_{\rm early}
 \Omega_M(1+z)^3
 +
 1-\Omega_M
-}.
-\]
+}
+$$
 
 The observational test should therefore evaluate the complete redshift dependence of:
 
-\[
+$$
 H(z),
 \qquad
 D_H(z),
 \qquad
-D_M(z),
-\]
+D_M(z)
+$$
 
 using the appropriate observational covariance matrix.
 
@@ -639,39 +649,39 @@ using the appropriate observational covariance matrix.
 
 The integrated framework introduces:
 
-\[
+$$
 R_{\rm env}(z)
 =
 \frac{H_{\rm local}(z)}
-{H_{\rm host}(z)}.
-\]
+{H_{\rm host}(z)}
+$$
 
 The local relation is represented as:
 
-\[
+$$
 H_{\rm local}(z)
 =
 C_{\rm clock}
 R_{\rm env}(z)
-H_{\rm early}(z).
-\]
+H_{\rm early}(z)
+$$
 
 For the retained local reference comparison:
 
-\[
+$$
 H_{\rm local}(0)
 =
 73.04
-\ {\rm km\,s^{-1}\,Mpc^{-1}},
-\]
+\ {\rm km\,s^{-1}\,Mpc^{-1}}
+$$
 
 the corresponding diagnostic ratio is approximately:
 
-\[
+$$
 R_{\rm env}(0)
 \approx
-\frac{73.04}{68.5967604235}.
-\]
+\frac{73.04}{68.5967604235}
+$$
 
 This quantity is treated as a diagnostic parameter for subsequent environmental testing.
 
@@ -681,7 +691,7 @@ This quantity is treated as a diagnostic parameter for subsequent environmental 
 
 The permanent methodological rule of UST2026 is:
 
-\[
+$$
 \boxed{
 \text{Derive}
 \rightarrow
@@ -693,7 +703,7 @@ The permanent methodological rule of UST2026 is:
 \rightarrow
 \text{Accept or Reject}
 }
-\]
+$$
 
 A parameter that has been frozen for a prediction is not subsequently adjusted merely to improve agreement with the same dataset.
 
@@ -706,7 +716,7 @@ The project distinguishes between:
 - numerical controls,
 - observational measurements,
 - statistical tests,
-- and falsification criteria.
+- falsification criteria.
 
 ---
 
@@ -723,7 +733,7 @@ The objective of the UST2026 repository is to preserve:
 - observational data pathways,
 - uncertainty treatment,
 - covariance requirements,
-- and publication materials.
+- publication materials.
 
 Reproducible results should be generated from explicitly documented inputs and procedures.
 
@@ -783,17 +793,14 @@ Each archived release should correspond to a clearly identified state of the res
 
 When citing the project, please use the archived Zenodo record and its DOI corresponding to the specific version being cited.
 
-Author:
+**Author:**  
+Sami Samir Ibrahim El-Sayed
 
-**Sami Samir Ibrahim El-Sayed**
+**ORCID:**  
+0009-0006-0807-0582
 
-ORCID:
-
-**0009-0006-0807-0582**
-
-Project:
-
-**UST2026 — Universal Stasis Theory**
+**Project:**  
+UST2026 — Universal Stasis Theory
 
 ---
 
