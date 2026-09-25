@@ -4,817 +4,838 @@
 ### Two-Scale Hosting Time and Environmental Ascent Clock Theory
 
 **Author:** Sami Samir Ibrahim El-Sayed  
-**Researcher / Independent Researcher**  
+**Researcher:** Independent Researcher  
 **ORCID:** 0009-0006-0807-0582
 
 ---
 
-## Overview
+# About UST2026
 
-UST2026 is a research project developing the **Universal Stasis Theory (UST)** and its associated **Two-Scale Hosting Time** and **Environmental Ascent Clock** framework.
+UST2026 is an independent research project developing the **Universal Stasis Theory (UST)** together with the **Two-Scale Hosting Time** and **Environmental Ascent Clock** frameworks.
 
-The project develops a unified mathematical and computational framework intended to investigate physical dynamics through environmental equilibrium, medium-dependent response, hosting-time scaling, and operational environmental clocks.
+The project is developed as a continuous research program rather than as a collection of unrelated papers.
 
-The project is organized as a continuous research program rather than as independent papers.
+The current integrated research framework extends through:
 
-The current integrated closure extends through:
+**Parts I–VI — Complete Integrated Research Framework**
 
-**Parts I–VI**
-
----
-
-# 1. Universal Stasis Theory (UST)
-
-Universal Stasis Theory investigates the possibility that observed physical dynamics can be described through environmental equilibrium and gradients of the surrounding physical medium.
-
-The central dynamical form used in the framework is:
-
-$$
-\mathbf{a}
-=
--\frac{K}{S}\nabla M(\mathbf{x})
-$$
-
-where:
-
-- $K$ is the Cosmic Equilibrium Constant.
-- $S$ represents Structural Resistance.
-- $M(\mathbf{x})$ represents the relevant environmental medium field.
-
-The framework investigates how environmental gradients may generate measurable acceleration and organized motion.
-
-The theory is developed without assuming gravitational acceleration as the fundamental mechanism of the proposed UST dynamics.
+The project combines theoretical development, mathematical formulation, computational modeling, numerical testing, operational clock concepts, astronomical realization, reproducibility procedures, and proposed observational testing pathways.
 
 ---
 
-# 2. Unified Environmental Force Framework
+# Research Identity
 
-A generalized force representation used in the framework is:
-
-$$
-m\mathbf{a}
-=
-k_1
-\int_S
-P_{\rm env}(\mathbf{x})\mathbf{n}\,dA
--
-k_2
-\int_S
-\boldsymbol{\sigma}_{\rm int}\cdot\mathbf{n}\,dA
-$$
-
-with corresponding environmental-field representations including:
-
-$$
-\nabla^2 P_{\rm env}
-=
--\beta\rho+S_P
-$$
-
-and
-
-$$
-\partial_t I
-+
-\mathbf{u}_{\rm env}\cdot\nabla I
-=
--\lambda I
-+
-\kappa\nabla\Phi
-$$
-
-The unified form is represented by:
-
-$$
-\rho(\mathbf{x})\mathbf{a}(\mathbf{x})
-=
--k_1\nabla P_{\rm env}
--k_2\nabla\cdot\boldsymbol{\sigma}_{\rm int}
-+
-\rho(\mathbf{x})\mathbf{b}_{\rm body}
-$$
-
-The constants and environmental parameters are treated as quantities requiring calibration and empirical testing.
+**Project:** UST2026  
+**Theory:** Universal Stasis Theory (UST)  
+**Hosting-Time Framework:** Two-Scale Hosting Time  
+**Clock Framework:** Environmental Ascent Clock Theory  
+**Researcher:** Sami Samir Ibrahim El-Sayed  
+**ORCID:** 0009-0006-0807-0582
 
 ---
 
-# 3. Two-Scale Hosting Time
+# Research Scope
 
-The project introduces an operational concept of **Hosting Time**.
+The UST2026 program investigates a unified framework based on environmental equilibrium, medium-dependent physical response, hosting-time scaling, and operational environmental clocks.
 
-The retained Planck-time scale is:
+The project studies how physical behavior may be represented through:
 
-$$
-t_p
-=
-5.391247\times10^{-44}\ {\rm s}
-$$
+- environmental conditions,
+- environmental gradients,
+- medium-dependent response,
+- structural resistance,
+- hosting-time scaling,
+- operational clocks,
+- astronomical environmental reference systems,
+- numerical dynamical systems,
+- observational testing,
+- uncertainty propagation,
+- covariance-aware statistical analysis,
+- and reproducible computational procedures.
 
-The host-time transformation is represented by:
-
-$$
-T_H(t)
-=
-t_p
-\exp\left(
-\frac{R_r t}{t_p}
-\right)
-$$
-
-Using the retained calibration:
-
-$$
-1\ {\rm local\ day}
-\longleftrightarrow
-1000\ {\rm hosting\ years}
-$$
-
-with
-
-$$
-t_d=86400\ {\rm s}
-$$
-
-the response-rate parameter is:
-
-$$
-R_r
-=
-\frac{t_p}{t_d}
-\ln(365250)
-\approx
-7.99223\times10^{-48}\ {\rm s}
-$$
-
-The corresponding characteristic interval is approximately:
-
-$$
-\tau_H
-=
-\frac{t_p}{R_r}
-\approx
-6745.61\ {\rm s}
-\approx
-1.8738\ {\rm h}
-$$
-
-These quantities are retained as part of the integrated Parts I–VI framework.
+The framework is intended to remain testable and falsifiable.
 
 ---
 
-# 4. Environmental Ascent Clock
+# Parts I–VI
 
-A central development of the later parts of UST2026 is the **Environmental Ascent Clock**.
+UST2026 is organized as a continuous sequence of research developments.
 
-The operational definition of a clock is:
+## Part I — Foundational Universal Stasis Framework
 
-> A clock consists of a carrier, a reference, an environment, an observable process, an initial reference time, a frequency/rate definition, and a continuous counting rule.
+Part I establishes the foundational development of the Universal Stasis Theory.
 
-Therefore:
+The initial framework investigates physical dynamics through environmental equilibrium and the response of physical systems to properties and gradients of their surrounding medium.
 
-$$
-\text{Time}\neq\text{Clock}
-$$
-
-A clock is an operational physical realization of temporal progression.
-
-For a cyclic observable with phase $\theta$, the cumulative progress is represented by:
-
-$$
-U_\phi
-=
-N_\phi
-+
-\frac{\theta_\phi}{2\pi}
-$$
-
-After phase unwrapping:
-
-$$
-U_\phi(t)
-=
-\frac{
-\widetilde{\theta}(t)
--
-\widetilde{\theta}(t_0)
-}{
-2\pi
-}
-$$
+The first part establishes the conceptual and mathematical foundation from which the later developments proceed.
 
 ---
 
-# 5. Environmental Calendar
+## Part II — Two-Scale Hosting Time
 
-The retained environmental-calendar convention is:
+Part II develops the physical and operational concept of **Two-Scale Hosting Time**.
 
-$$
-1\ {\rm Ascent\ Year}
-=
-12\ {\rm months}
-\times
-30\ {\rm days/month}
-\times
-100\ {\rm hours/day}
-$$
+The framework investigates a distinction between conventional local temporal measurement and a proposed hosting-time scale.
 
-Therefore:
+The development includes:
 
-$$
-1\ {\rm Ascent\ Year}
-=
-360\ {\rm days}
-=
-36\,000\ {\rm hours}
-$$
-
-The framework retains the previously established host-time calibration:
-
-$$
-1\ {\rm local\ day}
-\longleftrightarrow
-1000\ {\rm hosting\ years}
-$$
+- operational time scaling,
+- retained reference relationships,
+- characteristic temporal scales,
+- calibration procedures,
+- dimensional considerations,
+- and proposed routes for empirical testing.
 
 ---
 
-# 6. Galactic Environmental Clock
+## Part III — Mathematical and Physical Extension
 
-The astronomical realization developed in Part V uses:
+Part III extends the established framework and develops additional mathematical and physical components.
 
-- **Carrier:** Solar System Barycenter (SSB)
-- **Reference:** Galactic Center (GC)
-- **Environment:** Milky Way
-- **Observable process:** Galactocentric azimuth
+The work continues the original UST framework rather than replacing it with an independent model.
 
-The proposed operational identity is:
-
-$$
-\mathrm{GalClock}
-=
-(
-SSB,
-E_{\rm MW},
-GC,
-P_{\rm azimuth},
-t_0,
-F,
-D,
-A
-)
-$$
-
-The wrapped Galactocentric phase is:
-
-$$
-\Theta_G
-=
-\operatorname{atan2}(y,x)
-$$
-
-The continuous clock coordinate is:
-
-$$
-U_G(t)
-=
-\frac{
-\widetilde{\Theta}_G(t)
--
-\widetilde{\Theta}_G(t_0)
-}{
-2\pi
-}
-$$
-
-The instantaneous angular rate is:
-
-$$
-\Omega_G
-=
-\frac{xv_y-yv_x}{x^2+y^2}
-$$
-
-Therefore:
-
-$$
-\frac{dU_G}{dt}
-=
-\frac{\Omega_G}{2\pi}
-$$
-
-For an approximately constant angular rate:
-
-$$
-P_G
-=
-\frac{2\pi}{|\Omega_G|}
-$$
-
-This construction does not claim that a complete Galactic revolution has already been directly observed within the modern observational interval.
+The research develops the relationships required for later computational and observational investigations.
 
 ---
 
-# 7. Sampling-Safe Phase Unwrapping
+## Part IV — Integrated Theoretical and Computational Development
 
-Because the observed phase is wrapped into the interval $(-\pi,\pi]$, phase unwrapping requires an explicit sampling condition.
+Part IV integrates the earlier theoretical developments with computational considerations.
 
-The wrapped phase difference is:
+The work establishes a pathway from theoretical assumptions to:
 
-$$
-\delta_i^{\rm wrap}
-=
-\operatorname{atan2}
-\left(
-\sin\delta_i,
-\cos\delta_i
-\right)
-$$
+- mathematical definitions,
+- computational implementation,
+- numerical experiments,
+- measurable quantities,
+- testing procedures,
+- and falsification criteria.
 
-For a conservative maximum angular rate $\Omega_{\max}$, an interval is accepted only when:
-
-$$
-\Omega_{\max}\Delta t_i+\mu<\pi
-$$
-
-With uncertainty:
-
-$$
-\Omega_{\max}\Delta t_i
-+
-k\Sigma_{\Delta\theta_i}
-+
-\mu
-<
-\pi
-$$
-
-The branch-clearance condition is:
-
-$$
-C_i
-=
-\pi
--
-\left|
-\delta_i^{\rm wrap}
-\right|
-$$
-
-and the interval must satisfy:
-
-$$
-C_i
->
-\mu
-+
-k\Sigma_{\Delta\theta_i}
-$$
-
-The adaptive acceptance rule is:
-
-$$
-A_i
-=
-\Omega_{\max}\Delta t_i
-+
-k\Sigma_{\Delta\theta_i}
-+
-\mu
-<
-\pi
-$$
-
-and
-
-$$
-C_i>B_i,
-\qquad
-B_i=\mu+k\Sigma_{\Delta\theta_i}
-$$
-
-Only accepted intervals are used for continuous phase reconstruction:
-
-$$
-\widetilde{\Theta}_{G,i+1}
-=
-\widetilde{\Theta}_{G,i}
-+
-\delta_i^{\rm wrap}
-$$
+Part IV therefore forms an important bridge between theoretical development and reproducible computational investigation.
 
 ---
 
-# 8. Numerical Validation and Reproducibility
+## Part V — Environmental Ascent Clock Theory
 
-UST2026 includes explicit computational procedures for numerical validation.
+Part V introduces and develops the **Environmental Ascent Clock Theory**.
 
-The retained candidate numerical evolution law is:
+The central concept is that a clock is an operational physical system consisting of defined components such as:
 
-$$
-s_{t+1}
-=
-s_t
--
-\alpha Ls_t
-+
-\beta
-\left(
-s_t-s_t^{\circ 3}
-\right)
-$$
+- a carrier,
+- a reference,
+- an environment,
+- an observable process,
+- an initial reference point,
+- a rate or frequency definition,
+- and a continuous counting procedure.
 
-The retained reference configuration includes:
+Part V establishes the distinction:
 
-$$
-N=400
-$$
+**Time is not identical to a clock.**
 
-$$
-\alpha=0.05
-$$
+A clock is treated as an operational realization used to represent temporal progression through an observable physical process.
 
-$$
-\beta=0.50
-$$
+---
 
-The numerical experiments include multiple system sizes and independent random seeds.
+# Environmental Calendar
 
-The reported numerical results include:
+The Environmental Ascent Clock framework introduces an environmental calendar convention.
 
-- nontrivial equilibrium classification,
+The retained convention defines an Ascent Year through a structured month, day, and hour system.
+
+The purpose of this construction is to provide an operational calendar associated with the environmental-clock framework.
+
+The environmental calendar is treated as part of the theoretical and operational development rather than as a replacement for conventional civil timekeeping.
+
+---
+
+# Galactic Environmental Clock
+
+Part V develops an astronomical realization of the Environmental Ascent Clock.
+
+The proposed system uses:
+
+**Carrier:** Solar System Barycenter (SSB)
+
+**Reference:** Galactic Center (GC)
+
+**Environment:** Milky Way
+
+**Observable process:** Galactocentric azimuth
+
+The Galactic implementation provides an operational astronomical clock coordinate based on the continuous evolution of the selected observable.
+
+The construction is explicitly designed to address the problem of phase wrapping and incomplete observational intervals.
+
+The framework does not claim that a complete Galactic revolution has already been directly observed during the modern observational interval.
+
+---
+
+# Sampling-Safe Phase Unwrapping
+
+Part V develops an explicit procedure for safe phase reconstruction.
+
+The procedure considers:
+
+- finite observational sampling,
+- maximum allowed phase advance,
+- measurement uncertainty,
+- branch clearance,
+- conservative acceptance criteria,
+- adaptive sampling,
+- and continuous phase reconstruction.
+
+The purpose is to prevent an invalid phase branch from being introduced simply because observations are sampled too sparsely.
+
+The method therefore separates:
+
+**observed wrapped phase**
+
+from
+
+**reconstructed continuous phase.**
+
+Only intervals satisfying the defined acceptance conditions are used for continuous reconstruction.
+
+---
+
+# Uncertainty Propagation
+
+The framework incorporates uncertainty into the phase-reconstruction procedure.
+
+The uncertainty treatment is designed to prevent apparently continuous phase evolution from being accepted when the observational uncertainty is sufficiently large to make the branch ambiguous.
+
+The procedure therefore includes explicit uncertainty margins and conservative rejection criteria.
+
+---
+
+# Part VI — Complete Integrated Closure
+
+Part VI provides the current integrated closure of the research program.
+
+It consolidates the developments of Parts I–V into a single continuing framework.
+
+Part VI includes:
+
+- Universal Stasis Theory,
+- Two-Scale Hosting Time,
+- Environmental Ascent Clock Theory,
+- environmental calendar development,
+- Galactic astronomical realization,
+- sampling-safe phase reconstruction,
+- uncertainty propagation,
+- numerical validation,
+- reproducibility procedures,
+- observational testing pathways,
+- BAO testing methodology,
+- Hubble-scale prediction,
+- environmental closure relations,
+- and falsification methodology.
+
+Part VI is therefore a continuation and integration of the previous parts rather than a restart from zero.
+
+---
+
+# Numerical Validation
+
+UST2026 contains computational experiments designed to test candidate mathematical dynamics.
+
+The numerical work includes:
+
+- defined dynamical evolution rules,
+- controlled parameter configurations,
+- multiple system sizes,
+- independent random seeds,
+- equilibrium classification,
 - convergence measurements,
 - residual evaluation,
-- amplitude evaluation,
-- reproducibility across independent runs.
+- amplitude measurements,
+- and reproducibility checks.
 
-The numerical validation is explicitly treated as **numerical evidence for the mathematical candidate dynamics**, not as observational proof of the physical theory.
+The computational experiments provide numerical evidence concerning the mathematical candidate dynamics.
+
+They are not presented as direct observational confirmation of the physical theory.
 
 ---
 
-# 9. Observational Testing
+# Numerical Evidence vs. Physical Confirmation
 
-The project distinguishes clearly between:
+A central research-integrity principle of UST2026 is the distinction between different levels of evidence.
 
-1. mathematical derivation,
-2. numerical testing,
-3. observational testing,
-4. empirical acceptance or rejection.
+The project distinguishes between:
+
+1. Theoretical proposal
+2. Mathematical derivation
+3. Numerical experiment
+4. Computational reproducibility
+5. Laboratory testing
+6. Astronomical observation
+7. Statistical observational testing
+8. Independent empirical reproduction
+
+A successful numerical simulation is therefore not automatically treated as experimental or observational confirmation.
+
+---
+
+# Observational Testing
+
+The UST2026 framework is designed to permit observational testing.
+
+The proposed testing pathway includes:
+
+- clearly defined observables,
+- documented input data,
+- measurement uncertainties,
+- complete covariance information,
+- fixed model parameters,
+- explicit predictions,
+- statistical comparison,
+- and predefined acceptance or rejection criteria.
+
+The project does not replace unavailable observational measurements with assumed values.
+
+---
+
+# Covariance and Statistical Integrity
+
+Where an observational likelihood requires a covariance matrix, UST2026 requires the complete covariance structure whenever it is available and necessary for the stated analysis.
+
+Off-diagonal covariance terms must not be discarded merely to simplify a calculation.
+
+Historical diagonalized tests may be retained as historical controls.
+
+They are not presented as substitutes for a required full-covariance analysis.
 
 No missing observational covariance result is fabricated.
 
-Where a full observational covariance matrix is required, the complete covariance matrix must be supplied before a definitive likelihood calculation is claimed.
+---
 
-Historical diagonal tests are retained only as historical controls and are not presented as substitutes for the required full-covariance analysis.
+# BAO and Hubble-Scale Testing
+
+The integrated framework includes a proposed observational pathway using baryon acoustic oscillation measurements and Hubble-scale information.
+
+The framework considers distance and expansion observables including:
+
+- radial expansion information,
+- transverse distance information,
+- sound-horizon normalization,
+- redshift-dependent expansion,
+- observational uncertainties,
+- and covariance-aware statistical testing.
+
+The central objective is not to compare a single Hubble constant value alone.
+
+The decisive test proposed by the framework is the complete redshift dependence of the relevant observables.
 
 ---
 
-# 10. BAO and Hubble-Scale Testing
+# Retained Environmental Clock Candidate
 
-The integrated framework defines:
+The integrated Parts I–VI framework retains an environmental clock candidate corresponding to:
 
-$$
-D_H(z)
-=
-\frac{c}{H(z)}
-$$
+**P_cand = 1017.75608937 local years**
 
-and
+The corresponding retained clock factor is:
 
-$$
-D_M(z)
-=
-c
-\int_0^z
-\frac{dz'}{H(z')}
-$$
-
-The dimensionless BAO observable vector is:
-
-$$
-\mathbf{D}
-=
-\left(
-\frac{D_M}{r_d},
-\frac{D_H}{r_d}
-\right)
-$$
-
-The appropriate covariance-aware statistic is:
-
-$$
-\chi^2
-=
-(\mathbf{D}_{\rm data}-\mathbf{D}_{\rm model})^T
-C^{-1}
-(\mathbf{D}_{\rm data}-\mathbf{D}_{\rm model})
-$$
-
-The off-diagonal covariance terms must be retained.
-
-The project therefore does not treat an incomplete or diagonalized covariance matrix as equivalent to the full observational likelihood.
-
----
-
-# 11. Retained Environmental Clock Candidate
-
-The integrated Parts I–VI framework retains the candidate environmental period:
-
-$$
-P_{\rm cand}
-=
-1017.75608937
-\ {\rm local\ years}
-$$
-
-The corresponding clock factor is:
-
-$$
-C_{\rm clock}
-=
-\frac{P_{\rm cand}}{1000}
-=
-1.01775608937
-$$
+**C_clock = 1.01775608937**
 
 The fractional offset is:
 
-$$
-\delta_{\rm clock}
-=
-C_{\rm clock}-1
-=
-0.01775608937
-$$
+**δ_clock = 0.01775608937**
 
-Therefore:
+or approximately:
 
-$$
-\delta_{\rm clock}
-=
-1.775608937\%
-$$
+**1.775608937%**
 
-These values are treated as retained quantities of the integrated model and are not re-fitted in the corresponding fixed-clock prediction.
+These quantities are retained model quantities within the integrated framework.
+
+They are not treated as freely refitted parameters during the corresponding fixed-clock prediction.
 
 ---
 
-# 12. Hubble-Scale Prediction
+# Hubble-Scale Prediction
 
 Using the retained reference value:
 
-$$
-H_{\rm early}
-=
-67.4\ {\rm km\,s^{-1}\,Mpc^{-1}}
-$$
+**H_early = 67.4 km s⁻¹ Mpc⁻¹**
 
-the fixed-clock transformation is:
+the integrated framework produces the retained fixed-clock prediction:
 
-$$
-H_{\rm clock}
-=
-C_{\rm clock}H_{\rm early}
-$$
+**H_clock = 68.5967604235 km s⁻¹ Mpc⁻¹**
 
-Therefore:
+with the rounded reporting value:
 
-$$
-H_{\rm clock}
-=
-1.01775608937
-\times
-67.4
-$$
+**H_clock ≈ 68.5968 km s⁻¹ Mpc⁻¹**
 
-$$
-H_{\rm clock}
-=
-68.5967604235
-\ {\rm km\,s^{-1}\,Mpc^{-1}}
-$$
+This value is treated as a model prediction within the fixed-clock framework rather than as a fitted observational parameter.
 
-The rounded reporting value is:
-
-$$
-\boxed{
-H_{\rm clock}
-\approx
-68.5968
-\ {\rm km\,s^{-1}\,Mpc^{-1}}
-}
-$$
-
-This is retained as a **model prediction**, not as a fitted observational parameter.
+The observational question is therefore whether the predicted redshift-dependent behavior is consistent with independent observational datasets under a properly specified statistical test.
 
 ---
 
-# 13. Redshift-Dependent Test
+# Redshift-Dependent Testing
 
-The fixed-clock hypothesis can be written:
+The fixed-clock framework extends beyond a single value of H0.
 
-$$
-H_{\rm model}(z)
-=
-C_{\rm clock}H_{\rm base}(z)
-$$
+The proposed test evaluates the redshift-dependent behavior of:
 
-with
+- H(z),
+- radial distance information,
+- transverse distance information,
+- BAO observables,
+- and associated covariance.
 
-$$
-H_{\rm base}(z)
-=
-H_{\rm early}
-\sqrt{
-\Omega_M(1+z)^3
-+
-1-\Omega_M
-}
-$$
-
-The observational test should therefore evaluate the complete redshift dependence of:
-
-$$
-H(z),
-\qquad
-D_H(z),
-\qquad
-D_M(z)
-$$
-
-using the appropriate observational covariance matrix.
+The purpose is to determine whether the fixed model transformation remains consistent across the relevant observational redshift range.
 
 ---
 
-# 14. Environmental Closure Relation
+# Environmental Closure Relation
 
-The integrated framework introduces:
+The integrated framework introduces an environmental closure concept connecting local and host-scale measurements.
 
-$$
-R_{\rm env}(z)
-=
-\frac{H_{\rm local}(z)}
-{H_{\rm host}(z)}
-$$
+The closure relation is intended to provide a diagnostic framework for investigating possible environmental dependence.
 
-The local relation is represented as:
-
-$$
-H_{\rm local}(z)
-=
-C_{\rm clock}
-R_{\rm env}(z)
-H_{\rm early}(z)
-$$
-
-For the retained local reference comparison:
-
-$$
-H_{\rm local}(0)
-=
-73.04
-\ {\rm km\,s^{-1}\,Mpc^{-1}}
-$$
-
-the corresponding diagnostic ratio is approximately:
-
-$$
-R_{\rm env}(0)
-\approx
-\frac{73.04}{68.5967604235}
-$$
-
-This quantity is treated as a diagnostic parameter for subsequent environmental testing.
+The corresponding quantity is treated as a diagnostic parameter for future observational analysis rather than as an independently established physical constant.
 
 ---
 
-# 15. Scientific Method
+# Scientific Method
 
 The permanent methodological rule of UST2026 is:
 
-$$
-\boxed{
-\text{Derive}
-\rightarrow
-\text{Freeze}
-\rightarrow
-\text{Predict}
-\rightarrow
-\text{Test}
-\rightarrow
-\text{Accept or Reject}
-}
-$$
+**Derive → Freeze → Predict → Test → Accept or Reject**
 
-A parameter that has been frozen for a prediction is not subsequently adjusted merely to improve agreement with the same dataset.
+The principle is intended to prevent post-hoc adjustment of a frozen model parameter merely to improve agreement with the same dataset used for testing.
 
 The project distinguishes between:
 
 - theoretical assumptions,
 - derived quantities,
 - retained calibration values,
+- frozen parameters,
 - predictions,
 - numerical controls,
 - observational measurements,
 - statistical tests,
-- falsification criteria.
+- and falsification criteria.
 
 ---
 
-# 16. Reproducibility
+# Research Integrity
 
-The objective of the UST2026 repository is to preserve:
+UST2026 follows several explicit research-integrity principles.
 
-- mathematical definitions,
-- derivations,
-- numerical procedures,
+## No Fabricated Observational Results
+
+Unavailable observational results are not replaced with invented values.
+
+## No Fabricated Covariance
+
+A missing covariance matrix is not reconstructed as if it were an actual published covariance matrix.
+
+## Historical Controls Remain Historical
+
+Earlier simplified or diagonal tests are retained only as documented historical controls when applicable.
+
+## Numerical Results Are Not Automatically Physical Proof
+
+Numerical convergence or stability does not by itself establish observational validity.
+
+## Predictions Remain Predictions
+
+A calculated model prediction is not presented as an observational measurement.
+
+## Falsifiability
+
+The framework is intended to permit results that may support, constrain, modify, or reject individual components of the theory.
+
+---
+
+# Reproducibility
+
+The UST2026 project is designed to preserve a reproducible research pathway.
+
+The repository and associated archives are intended to preserve:
+
+- theoretical definitions,
+- mathematical development,
+- computational procedures,
 - simulation code,
-- parameter values,
+- parameter configurations,
 - testing protocols,
-- observational data pathways,
 - uncertainty treatment,
+- observational data pathways,
 - covariance requirements,
-- publication materials.
+- publication materials,
+- and version information.
 
-Reproducible results should be generated from explicitly documented inputs and procedures.
-
-No unavailable observational result is replaced by an invented value.
-
----
-
-# 17. Research Structure
-
-The current integrated research sequence is:
-
-### Part I
-Foundational development of the Universal Stasis framework.
-
-### Part II
-Physical and operational development of the Two-Scale Hosting Time hypothesis.
-
-### Part III
-Extension and mathematical development of the framework.
-
-### Part IV
-Integrated theoretical and computational development.
-
-### Part V
-Environmental Ascent Clock Theory, astronomical realization, phase unwrapping, uncertainty propagation, sampling safety, and reproducible testing.
-
-### Part VI
-Complete Integrated Closure of Parts I–VI, including the Two-Scale Hosting Time and Environmental Ascent Clock framework, numerical validation procedures, and the fixed-clock Hubble-scale prediction.
+Reproducibility requires that the same documented inputs and procedures can be independently examined and, where applicable, reproduced.
 
 ---
 
-# 18. Status of the Research
+# Research Architecture
+
+The overall UST2026 research architecture can be summarized as:
+
+**Universal Stasis Theory**
+
+↓
+
+**Two-Scale Hosting Time**
+
+↓
+
+**Environmental Ascent Clock**
+
+↓
+
+**Environmental Calendar**
+
+↓
+
+**Galactic Environmental Clock**
+
+↓
+
+**Sampling-Safe Phase Reconstruction**
+
+↓
+
+**Uncertainty Propagation**
+
+↓
+
+**Numerical Validation**
+
+↓
+
+**Observational Testing**
+
+↓
+
+**Covariance-Aware Statistical Analysis**
+
+↓
+
+**Prediction and Falsification**
+
+---
+
+# Continuous Research Program
+
+UST2026 should be understood as a continuous research program.
+
+The six parts are connected.
+
+The later parts inherit the established framework and extend it.
+
+The purpose of the integrated structure is to prevent the research from becoming a collection of disconnected theoretical proposals.
+
+Each new development is intended to remain connected to:
+
+- previously defined concepts,
+- retained parameters,
+- documented computational procedures,
+- testing protocols,
+- and explicit empirical criteria.
+
+---
+
+# Current Research Status
 
 UST2026 is an ongoing independent research program.
 
-The computational and numerical results included in the project should be distinguished from experimental or observational confirmation.
+The current integrated framework contains theoretical development, computational work, numerical validation procedures, and proposed observational tests.
 
-The framework is intended to remain testable and falsifiable.
+The available numerical evidence should be distinguished from experimental and observational confirmation.
 
-Future observational tests may support, constrain, modify, or reject individual components of the framework.
+The observational components remain subject to the availability of appropriate datasets, uncertainties, covariance matrices, and independent reproduction.
 
----
-
-# 19. Publication and Archival Record
-
-The research materials are intended for permanent scholarly preservation through public repositories and version-controlled research archives.
-
-GitHub provides the version-controlled development and source repository.
-
-Zenodo provides archival preservation and DOI-based scholarly identification for archived releases.
-
-Each archived release should correspond to a clearly identified state of the research materials.
+The framework remains open to empirical testing and possible falsification.
 
 ---
 
-# 20. Citation
+# Publication and Archival Record
 
-When citing the project, please use the archived Zenodo record and its DOI corresponding to the specific version being cited.
+The research materials are maintained through version-controlled and archival research infrastructure.
 
-**Author:**  
+## GitHub
+
+GitHub is used for:
+
+- source-code development,
+- version control,
+- research documentation,
+- computational materials,
+- and development history.
+
+**Repository:**
+
+`smyrsamysmyr3-art/UST2026`
+
+---
+
+# Zenodo Archive
+
+Zenodo is used for scholarly archival preservation and DOI-based identification of published research records.
+
+Zenodo provides versioned archival records so that specific states of the research can be identified and cited.
+
+## Current Archived Record
+
+**Zenodo Record ID:** 22286097
+
+**Archived DOI:**
+
+`10.5281/zenodo.22286097`
+
+**Parent / Concept DOI:**
+
+`10.5281/zenodo.18476732`
+
+**Archived Version:** v93
+
+**Publication Date:** 3 September 2026
+
+The DOI above identifies the corresponding archived Zenodo record.
+
+When citing a different archived version, the DOI belonging to that specific version should be used.
+
+---
+
+# ORCID
+
+**Author / Researcher:**
+
 Sami Samir Ibrahim El-Sayed
 
-**ORCID:**  
-0009-0006-0807-0582
+**ORCID:**
 
-**Project:**  
-UST2026 — Universal Stasis Theory
+`0009-0006-0807-0582`
 
----
-
-# 21. License and Research Integrity
-
-Research materials should be used with appropriate attribution.
-
-Results should not be presented as experimentally confirmed unless the corresponding experimental or observational evidence has actually been obtained and independently reproduced.
-
-The repository preserves the distinction between theoretical proposal, computational evidence, and empirical validation.
+ORCID is used as the persistent researcher identifier associated with the project.
 
 ---
 
-## UST2026
+# Author Attribution
+
+The UST2026 research program is authored and developed by:
+
+**Sami Samir Ibrahim El-Sayed**
+
+Independent Researcher
+
+ORCID:
+
+`0009-0006-0807-0582`
+
+---
+
+# Citation
+
+When citing UST2026, cite the specific archived version whenever possible.
+
+For the currently identified Zenodo archive:
+
+**Sami Samir Ibrahim El-Sayed. UST2026 — Universal Stasis Theory (UST): Two-Scale Hosting Time and Environmental Ascent Clock Theory. Zenodo, 2026.**
+
+DOI:
+
+`10.5281/zenodo.22286097`
+
+For reproducibility, the cited version should always be specified when a particular version of the research materials is being discussed.
+
+---
+
+# Versioning Policy
+
+Research materials may evolve as the project develops.
+
+Each significant archived state should preserve:
+
+- the research version,
+- associated source materials,
+- computational materials where applicable,
+- documentation,
+- and the corresponding archival identifier.
+
+Older archived versions remain useful for establishing the historical state of the research at the time of publication.
+
+---
+
+# Research Continuity
+
+The project maintains continuity across Parts I–VI.
+
+The integrated framework is not intended to erase the previous parts.
+
+Instead:
+
+**Part I** establishes the foundation.
+
+**Part II** develops Two-Scale Hosting Time.
+
+**Part III** extends the mathematical and physical framework.
+
+**Part IV** integrates theoretical and computational development.
+
+**Part V** develops Environmental Ascent Clock Theory and its astronomical realization.
+
+**Part VI** integrates and closes the Parts I–VI framework while preserving the established research pathway.
+
+---
+
+# What UST2026 Contains
+
+The complete research program includes:
+
+- Universal Stasis Theory
+- Two-Scale Hosting Time
+- Environmental Ascent Clock Theory
+- Environmental Calendar
+- Galactic Environmental Clock
+- Astronomical realization
+- Phase-unwrapping methodology
+- Sampling-safety conditions
+- Uncertainty propagation
+- Numerical dynamical systems
+- Computational validation
+- Reproducibility procedures
+- Observational testing pathways
+- BAO testing methodology
+- Hubble-scale prediction
+- Environmental closure analysis
+- Covariance-aware statistical methodology
+- Falsification criteria
+- Publication and archival records
+
+---
+
+# What UST2026 Does Not Claim
+
+The project does not claim that numerical simulations alone constitute experimental confirmation.
+
+It does not claim that unavailable observational covariance information has been measured or reconstructed as published data.
+
+It does not replace missing observational evidence with fabricated numerical values.
+
+It does not treat a model prediction as an observational measurement.
+
+It does not claim that a complete Galactic revolution has already been directly observed within the modern observational interval.
+
+The distinction between theoretical proposal, numerical evidence, and empirical validation is maintained throughout the project.
+
+---
+
+# Future Testing
+
+Future work may include:
+
+- laboratory testing,
+- controlled physical experiments,
+- astronomical observations,
+- independent reproduction,
+- full-covariance BAO analysis,
+- redshift-dependent expansion tests,
+- environmental-clock calibration,
+- uncertainty validation,
+- and independent computational verification.
+
+The outcome of these tests may support, constrain, modify, or reject individual components of the framework.
+
+---
+
+# Research Principle
+
+The central methodological principle remains:
+
+**Derive → Freeze → Predict → Test → Accept or Reject**
+
+The purpose of this principle is to maintain a clear separation between:
+
+**what is assumed,**
+
+**what is derived,**
+
+**what is calculated,**
+
+**what is predicted,**
+
+and
+
+**what is actually measured.**
+
+---
+
+# Final Project Statement
+
+UST2026 represents the current integrated development of the Universal Stasis Theory, Two-Scale Hosting Time, and Environmental Ascent Clock Theory.
+
+The project is maintained as a continuous independent research program covering Parts I–VI.
+
+Its objective is to develop a mathematically explicit, computationally reproducible, observationally testable, and potentially falsifiable framework.
+
+The research materials are preserved through version-controlled development and archival publication.
+
+---
+
+# Project Identification
+
+**UST2026**
+
+**Universal Stasis Theory (UST)**
+
+**Two-Scale Hosting Time**
+
+**Environmental Ascent Clock Theory**
+
+**Parts I–VI — Complete Integrated Research Framework**
+
+---
+
+## Author
+
+**Sami Samir Ibrahim El-Sayed**
+
+Independent Researcher
+
+ORCID:
+
+`0009-0006-0807-0582`
+
+---
+
+## Archival Identifier
+
+Zenodo Record:
+
+`22286097`
+
+Zenodo DOI:
+
+`10.5281/zenodo.22286097`
+
+Parent DOI:
+
+`10.5281/zenodo.18476732`
+
+---
+
+## Repository
+
+GitHub:
+
+`smyrsamysmyr3-art/UST2026`
+
+---
+
+## Research Status
+
+**Independent Research Program — Parts I–VI — Ongoing and Testable**
+
+---
+
+**UST2026**
 
 **Universal Stasis Theory (UST)**  
 **Two-Scale Hosting Time**  
